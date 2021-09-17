@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Cormorant', serif;
+    src: url(../fonts/Cormorant-Bold.ttf);
+}
+@font-face {
+    font-family: 'Cormorant', serif;
+    src: url(../fonts/Cormorant-BoldItalic.ttf);
+}
+@font-face {
+    font-family: 'Jost', sans-serif;
+    src: url(../fonts/Jost-Regular.ttf);
+}
+@font-face {
+    font-family: 'Jost', sans-serif;
+    src: url(../fonts/Jost-Medium.ttf);
+}
